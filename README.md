@@ -19,7 +19,7 @@ Junior Full-Stack Developer based in Italy, open to roles in Bari, Rome, Como an
 Before tech, I co-founded and ran a restaurant in Germany for 5 years — so I bring
 organization, teamwork under pressure and fluent German to every project.
 
-###🛠 Tech stack
+### 🛠 Tech stack
 * Frontend: React · TypeScript · Redux · Zustand
 * Backend: Java · Spring Boot · Spring Security · PostgreSQL
 * Tools: Git · IntelliJ IDEA · VS Code · Docker
