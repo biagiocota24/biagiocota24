@@ -25,7 +25,7 @@ organization, teamwork under pressure and fluent German to every project.
 * Tools: Git · IntelliJ IDEA · VS Code · Docker
 
 ### 🚀 Projects
-- **[GarganoExplorer](link-al-repository)** — Full-stack tourism platform for the Gargano region
+- **[GarganoExplorer]([link-al-repository](https://github.com/biagiocota24/GarganoExplorer_capstone))** — Full-stack tourism platform for the Gargano region
   (role-based JWT auth, reviews, favorites, IT/EN/DE interface). *Currently being rebuilt with tests, CI and deployment.*
 
 ### 🌍 Languages
